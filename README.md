@@ -13,4 +13,7 @@ $list : List out all the encouraging messages
 $bbb : Responds with "Bing Bong!"
 
 Hosted on https://replit.com/
+
 Kept awake by https://uptimerobot.com/
+
+Give your bot permissions: https://discord.com/developers/applications
