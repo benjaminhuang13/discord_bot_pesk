@@ -15,6 +15,6 @@ If it detects a sad phrase, it will send a random zen/encouraging message from z
 ## Deploy
 - Hosted on https://replit.com/
 - Replit is kept awake by https://uptimerobot.com/. It constnatly sends a ping to the bot, which prevents it from shutting down.
-- 
+  
 ## Permissions
 - How to give your bot permissions: https://discord.com/developers/applications
